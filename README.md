@@ -1,2 +1,4 @@
-# public
-github proof of my public info
+An easy way to get my public information by my GitHub nickname.
+
+---
+
